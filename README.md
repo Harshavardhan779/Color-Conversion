@@ -122,7 +122,8 @@ cv2.destroyAllWindow
 
 
 ## Output:
-### i) BGR and RGB to HSV and GRAY.
+### i) BGR and RGB to HSV and GRAY
+
 ![OUTPUT](/1.png)
 
 ### ii) HSV to RGB and BGR
